@@ -1,0 +1,14 @@
+E:\Core Source Code\Core Code\Core Code\bin\Debug\netcoreapp2.2\Core Code.deps.json
+E:\Core Source Code\Core Code\Core Code\bin\Debug\netcoreapp2.2\Core Code.runtimeconfig.json
+E:\Core Source Code\Core Code\Core Code\bin\Debug\netcoreapp2.2\Core Code.runtimeconfig.dev.json
+E:\Core Source Code\Core Code\Core Code\bin\Debug\netcoreapp2.2\Core Code.dll
+E:\Core Source Code\Core Code\Core Code\bin\Debug\netcoreapp2.2\Core Code.pdb
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.csprojAssemblyReference.cache
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.csproj.CoreCompileInputs.cache
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.RazorAssemblyInfo.cache
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.RazorAssemblyInfo.cs
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.AssemblyInfoInputs.cache
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.AssemblyInfo.cs
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.RazorTargetAssemblyInfo.cache
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.dll
+E:\Core Source Code\Core Code\Core Code\obj\Debug\netcoreapp2.2\Core Code.pdb
